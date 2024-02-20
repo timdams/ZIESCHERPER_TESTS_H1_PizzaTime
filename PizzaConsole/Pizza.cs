@@ -8,5 +8,6 @@ namespace PizzaConsole
 {
     public class Pizza
     {
-	}
+       
+    }
 }

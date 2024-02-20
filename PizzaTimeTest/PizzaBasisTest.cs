@@ -48,7 +48,7 @@ namespace PizzaTimeTest
         }
 
         [TestMethod, Description("Controleert of full prop Price aanwezig is")]
-        public void PrijsTest()
+        public void PriceTest()
         {
 
             var r = new Pizza();
